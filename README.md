@@ -1,9 +1,7 @@
 # N-Queen problem solver
-## Description/Descrição:
+## Description/
 This is a n-queen problem solver using local search algorithms.
 
-[Pt-Br]:
-Este é um programa que resolve o problema das n-rainhas utilizando algoritmos de busca local.
 
 ### Local search algorithms/Algoritmos de busca local:
 
@@ -72,11 +70,3 @@ simulated_annealing
 . . . . Q . . .
 Q . . . . . . .
 . . . . . Q . .
-
-
-```
-### obs: All code comments are in Brazilian Portuguese.
-
-## Author
-
-* **Vitor Veras de Moura** - [GitHub](https://github.com/vitor-veras) - Email: vitorverasm@gmail.com
